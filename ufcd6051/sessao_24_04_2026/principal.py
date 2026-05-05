@@ -1,0 +1,181 @@
+# lista de materiais na sala
+
+list
+
+dict
+ 
+mesa_qudrada = {
+    "comprimento":90,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":90,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":90,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":90,
+    "largura":90,
+    "altura":75
+}
+
+mesa_retangular = {
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+{
+    "comprimento":120,
+    "largura":90,
+    "altura":75
+}
+
+cpmputador = {
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+{
+    "marca":"HP",
+    "processador":"i7",
+    "ram":16,
+    "disco":512
+}
+
+cadeira = {
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+{
+    "cor":"cinza",
+    "material":"plástico",
+    "altura":90
+}
+
+quadro = {
+    "cor":"branco",
+    "material":"madeira",
+    "altura":120,
+    "largura":350,
+}
+telivisao = {
+    "marca":"LG",
+    "tamanho":96,
+    "resolucao":"4K"    
+}
